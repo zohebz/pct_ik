@@ -4,7 +4,7 @@ Run:
 
 move tracker ball
 
-![Alt move ball]()
+![Alt move ball](https://raw.githubusercontent.com/zohebz/pct_ik/main/move_ball.png)
 
 press play in scripting window 
 
