@@ -8,4 +8,4 @@ move tracker ball
 
 press play in scripting window 
 
-![Alt run]()
+![Alt run](https://raw.githubusercontent.com/zohebz/pct_ik/main/run.png)
